@@ -5,7 +5,7 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=7deaad7e6b8cbb056cb1eb4a4b274545"
 
 SRC_URI = "git://github.com/qarmin/yocto-tauri-example.git;protocol=https;branch=master"
 SRC_URI += "npmsw://${THISDIR}/npm-shrinkwrap.json"
-SRCREV = "36e9018553f1e46af7552cb98f1c45df37d04fa7"
+SRCREV = "90071fad5288c994c7b6f946998e90f3756d3d98"
 
 S = "${WORKDIR}/git"
 
