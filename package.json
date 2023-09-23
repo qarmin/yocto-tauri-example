@@ -1,4 +1,5 @@
 {
+  "name": "tauri-npm",
   "private": true,
   "type": "module",
   "scripts": {
